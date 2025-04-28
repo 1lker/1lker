@@ -10,16 +10,6 @@ I'm a passionate data scientist and machine learning enthusiast, eager to explor
 - Big data technologies
 - Cloud computing architectures
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1lker&show_icons=true&theme=radical" alt="İlker's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1lker&theme=radical" alt="İlker's GitHub Streak" />
-</p>
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
