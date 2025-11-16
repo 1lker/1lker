@@ -14,7 +14,7 @@ I'm a passionate data scientist and machine learning enthusiast, eager to explor
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=1lker&theme=darkhub&column=7" alt="trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=1lker&theme=matrix&column=7" alt="trophy" />
   </a>
 </p>
 
