@@ -22,7 +22,7 @@ Anthropic Startup Program &middot; NVIDIA Inception &middot; $1.2M from TQ Ventu
 | **What we build** | Multi-LLM agent orchestration platform — provider routing, prompt caching, observability, payments, MCP |
 | **Funding** | $1.2M pre-seed from [TQ Ventures](https://tqventures.com) |
 | **Programs** | Anthropic Startup Program · NVIDIA Inception |
-| **Based** | Istanbul → SF/London (2027) |
+| **Based** | Istanbul · Mindra Inc. is a Delaware C-Corp |
 | **Education** | Koç University · Computer Science + Economics |
 | **Previously** | Bosch (Data Engineer), ControlWorks, Doping Tech |
 
