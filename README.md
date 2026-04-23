@@ -2,7 +2,7 @@
 
 # İlker Yörü
 
-**CTO @ [Mindra](https://mindra.co)** &middot; Building multi-agent orchestration on Claude
+**CTO @ [Mindra](https://mindra.co)** &middot; Building the multi-LLM agent orchestration platform
 Anthropic Startup Program &middot; NVIDIA Inception &middot; $1.2M from TQ Ventures
 
 [![Website](https://img.shields.io/badge/ilkeryoru.com-0a0a0a?style=flat-square&logo=safari&logoColor=white)](https://ilkeryoru.com)
@@ -19,7 +19,7 @@ Anthropic Startup Program &middot; NVIDIA Inception &middot; $1.2M from TQ Ventu
 | | |
 |---|---|
 | **Role** | CTO &amp; Co-Founder @ [Mindra](https://mindra.co) |
-| **What we build** | Multi-agent orchestration platform on Claude — caching, observability, payments, MCP |
+| **What we build** | Multi-LLM agent orchestration platform — provider routing, prompt caching, observability, payments, MCP |
 | **Funding** | $1.2M pre-seed from [TQ Ventures](https://tqventures.com) |
 | **Programs** | Anthropic Startup Program · NVIDIA Inception |
 | **Based** | Istanbul → SF/London (2027) |
@@ -30,7 +30,7 @@ Anthropic Startup Program &middot; NVIDIA Inception &middot; $1.2M from TQ Ventu
 
 ## Currently building
 
-- **[Mindra](https://mindra.co)** — multi-agent orchestration platform. Production deployment serving cache-optimized Claude inference (98.7% cache hit rate) with multi-agent coordination, MCP-native tool surfaces, and human-in-the-loop approvals.
+- **[Mindra](https://mindra.co)** — multi-LLM agent orchestration platform. Multi-provider routing across Anthropic, OpenAI, and Gemini with prompt-caching (98.7% cache hit rate on Anthropic), multi-agent coordination, MCP-native tool surfaces, and human-in-the-loop approvals.
 - **Mindra ecosystem partnerships** — Anthropic Startup Program (bi-weekly meetings) + NVIDIA Inception
 - **Public technical writing** — agent orchestration patterns, prompt caching architecture, production AI lessons
 
@@ -53,23 +53,12 @@ Anthropic Startup Program &middot; NVIDIA Inception &middot; $1.2M from TQ Ventu
 ## Tech focus
 
 ```text
-AI/ML        Anthropic Claude · OpenAI · MCP · Whisper · Multi-agent orchestration · Prompt caching
+AI/ML        Anthropic · OpenAI · Gemini · MCP · Whisper · Multi-agent orchestration · Prompt caching · Multi-LLM routing
 Backend      Python · FastAPI · SQLAlchemy · Celery · Redis · PostgreSQL · Supabase
 Frontend     TypeScript · Next.js 15 · React · Tailwind · shadcn/ui · TanStack Query · Zustand
 Infra        AWS · GCP (Cloud Run, Cloud Build) · Docker · Terraform · Vercel · Doppler
 Data         OpenCV · NumPy · Pandas · Whisper · Tesseract · Ollama
 ```
-
----
-
-## GitHub stats
-
-<div align="center">
-
-[![İlker's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lker&show_icons=true&hide_border=true&theme=dark&bg_color=0a0a0a&title_color=f97316&text_color=fafafa&icon_color=f97316)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1lker&layout=compact&hide_border=true&theme=dark&bg_color=0a0a0a&title_color=f97316&text_color=fafafa)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 
 ---
 
