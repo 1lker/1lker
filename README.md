@@ -1,30 +1,97 @@
-# Hi there, I'm İlker 👋
+<div align="center">
 
-## 🚀 About Me
-I'm a passionate data scientist and machine learning enthusiast, eager to explore the worlds of data, ML, and beyond. My goal is to leverage data to create innovative solutions and drive meaningful insights.
+# İlker Yörü
 
-![Profile Views](https://komarev.com/ghpvc/?username=1lker&label=Profile%20views&color=0e75b6&style=flat)
+**CTO @ [Mindra](https://mindra.co)** &middot; Building multi-agent orchestration on Claude
+Anthropic Startup Program &middot; NVIDIA Inception &middot; $1.2M from TQ Ventures
 
-## 🌱 I'm currently learning
-- Advanced machine learning techniques
-- Big data technologies
-- Cloud computing architectures
+[![Website](https://img.shields.io/badge/ilkeryoru.com-0a0a0a?style=flat-square&logo=safari&logoColor=white)](https://ilkeryoru.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilker-yoru)
+[![Mindra](https://img.shields.io/badge/Mindra-D97757?style=flat-square)](https://mindra.co)
+[![Email](https://img.shields.io/badge/ilker@mindra.co-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ilker@mindra.co)
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=1lker&theme=matrix&column=7" alt="trophy" />
-  </a>
-</p>
-
-## 🤝 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/ilker-yoru)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1lker)
-
-Feel free to reach out if you want to collaborate on a project, discuss data science, or just have a chat!
+</div>
 
 ---
 
-⭐️ From [İlker](https://github.com/1lker)
+## TL;DR
+
+| | |
+|---|---|
+| **Role** | CTO &amp; Co-Founder @ [Mindra](https://mindra.co) |
+| **What we build** | Multi-agent orchestration platform on Claude — caching, observability, payments, MCP |
+| **Funding** | $1.2M pre-seed from [TQ Ventures](https://tqventures.com) |
+| **Programs** | Anthropic Startup Program · NVIDIA Inception |
+| **Based** | Istanbul → SF/London (2027) |
+| **Education** | Koç University · Computer Science + Economics |
+| **Previously** | Bosch (Data Engineer), ControlWorks, Doping Tech |
+
+---
+
+## Currently building
+
+- **[Mindra](https://mindra.co)** — multi-agent orchestration platform. Production deployment serving cache-optimized Claude inference (98.7% cache hit rate) with multi-agent coordination, MCP-native tool surfaces, and human-in-the-loop approvals.
+- **Mindra ecosystem partnerships** — Anthropic Startup Program (bi-weekly meetings) + NVIDIA Inception
+- **Public technical writing** — agent orchestration patterns, prompt caching architecture, production AI lessons
+
+---
+
+## Featured projects
+
+### Production AI infrastructure
+- **[AIKU Backend](https://github.com/Comp491-aiku/senior-backend)** — Multi-agent travel planning backend. Anthropic Claude orchestrator + 8 specialized microservices on Cloud Run + Vercel. Live at [secoa.ai](https://secoa.ai).
+- **[AIKU Frontend](https://github.com/Comp491-aiku/senior-frontend)** — Next.js 15 + Supabase + Mapbox. Senior Design Project, Koç University.
+- **[Turkish Transcribe Backend](https://github.com/1lker/turkish-transcribe-be)** — Whisper-powered Turkish speech-to-text service. FastAPI + WebSocket + Docker.
+
+### Research &amp; data engineering
+- **[Melanoma Detection Pipeline](https://github.com/1lker/image-preprocess-pipeline)** — Production preprocessing pipeline for dermoscopic melanoma classification. **10,605 images at ~82 img/s**, supported a deep-learning study reaching **95% sensitivity**.
+- **[HUMS](https://github.com/1lker/hums-project)** — LOD3 BIM reconstruction pipeline for the Pervititch 1923 maps of historic Istanbul. Heritage informatics in Python.
+- **[PDF → Text · LLM-Guided OCR](https://github.com/1lker/pdf2text-llm-ocr-extractor)** — Hybrid OCR + local-LLM pipeline. Tesseract + Ollama for high-fidelity Turkish document extraction.
+
+---
+
+## Tech focus
+
+```text
+AI/ML        Anthropic Claude · OpenAI · MCP · Whisper · Multi-agent orchestration · Prompt caching
+Backend      Python · FastAPI · SQLAlchemy · Celery · Redis · PostgreSQL · Supabase
+Frontend     TypeScript · Next.js 15 · React · Tailwind · shadcn/ui · TanStack Query · Zustand
+Infra        AWS · GCP (Cloud Run, Cloud Build) · Docker · Terraform · Vercel · Doppler
+Data         OpenCV · NumPy · Pandas · Whisper · Tesseract · Ollama
+```
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+[![İlker's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lker&show_icons=true&hide_border=true&theme=dark&bg_color=0a0a0a&title_color=f97316&text_color=fafafa&icon_color=f97316)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1lker&layout=compact&hide_border=true&theme=dark&bg_color=0a0a0a&title_color=f97316&text_color=fafafa)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+---
+
+## What I'm reading / learning
+
+- Karpathy's "Zero to Hero" series + nanoGPT internals
+- Anthropic research papers (Constitutional AI, RLHF, Sleeper Agents)
+- "Designing Data-Intensive Applications" (re-read every quarter)
+- Production prompt-caching patterns at scale
+
+---
+
+## Get in touch
+
+Working on something at the intersection of agents, infrastructure, or the Turkish AI ecosystem? I'm reachable at [ilker@mindra.co](mailto:ilker@mindra.co) or via [LinkedIn](https://linkedin.com/in/ilker-yoru).
+
+For Mindra design-partner / customer conversations: [mindra.co](https://mindra.co).
+
+---
+
+<div align="center">
+
+<sub>Last updated · April 2026 · Istanbul</sub>
+
+</div>
